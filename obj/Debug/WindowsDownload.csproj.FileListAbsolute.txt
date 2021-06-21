@@ -1,0 +1,10 @@
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\bin\Debug\WindowsDownload.exe.config
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\bin\Debug\WindowsDownload.exe
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\bin\Debug\WindowsDownload.pdb
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.Form1.resources
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.Properties.Resources.resources
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.exe
+C:\Users\abc\source\repos\WindowsDownload\WindowsDownload\obj\Debug\WindowsDownload.pdb
